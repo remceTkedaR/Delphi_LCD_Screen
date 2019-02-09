@@ -1,9 +1,4 @@
 
-          TLCDLabel v1.5 - The Electronic looking label for Delphi!
-	--------------------------------------------------------------
-
-                    Copyright 1998, Amitron Electronics
-                               Peter Czidlina
 
 
 LCDLabel update for Delphi 3 and 4 - and a bug fix...!
@@ -253,31 +248,5 @@ What to improve?
 	- Whatever You will find out...
 
 
-Freeware!
----------
-
-This component is Freeware!
-It can be used freely in any application for private use, just put a credit for
-me in Your About box...
-If You like it, send me a e-mail or a post card. Or if You want some
-improvements or have some good ideas, just do the same writing down Your ideas.
-If You don't like it or maybe find some bugs, contact me too and tell me what
-You have found.
-If the component is going to be used in a commersial application, contact me
-and we'll make up the deal. More info is also avaiable at my home page.
 
 
-
-How to contact me?
-------------------
-
-snail-mail:
-
-	Peter Czidlina
-
-	Kanalvaegen 6
-	136 73  Haninge
-	Sweden
-
-e-mail:	petercz@swipnet.se
-WWW   : http://hem2.passagen.se/ebcpecz/
